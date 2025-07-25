@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Controllers",
+    "\\backend\\Models",
+    "\\backend\\Properties",
+    "\\backend\\Repositories",
+    "\\todo-frontend\\src\\components"
+  ],
+  "SelectedNode": "\\backend\\Controllers\\TodoController.cs",
+  "PreviewInSolutionExplorer": false
+}
