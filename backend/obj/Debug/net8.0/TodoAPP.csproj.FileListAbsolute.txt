@@ -339,3 +339,4 @@ D:\project\TodoAPP\backend\obj\Debug\net8.0\refint\TodoAPP.dll
 D:\project\TodoAPP\backend\obj\Debug\net8.0\TodoAPP.pdb
 D:\project\TodoAPP\backend\obj\Debug\net8.0\TodoAPP.genruntimeconfig.cache
 D:\project\TodoAPP\backend\obj\Debug\net8.0\ref\TodoAPP.dll
+D:\project\TodoAPP\backend\obj\Debug\net8.0\TodoAPP.sourcelink.json
